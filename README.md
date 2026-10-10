@@ -12,11 +12,11 @@
 
   <br/>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/velugulajohnvesly">
     <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Always_Learning-0891b2?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?velugulajohnvesly&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -65,13 +65,13 @@ public class Developer {
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=velugulajohnvesly&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velugulajohnvesly&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=c9d1d9" />
 
   <br/>
 
-  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=velugulajohnvesly&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
 
 </div>
 
@@ -91,7 +91,7 @@ public class Developer {
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/velugulajohnvesly">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
